@@ -37,6 +37,7 @@ test:
   requires:
     - pip
     - pytest-cov
+    - statsmodels
   imports:
     - cyclonedx_py
   commands:
